@@ -1,0 +1,8 @@
+{
+  "name": "huffman-lab",
+  "version-string": "1.0.0",
+  "builtin-baseline": "380f339f1f0e2f5ff50b868e8e7c10b784260f89",
+  "dependencies": [
+    "gtest"
+  ]
+}

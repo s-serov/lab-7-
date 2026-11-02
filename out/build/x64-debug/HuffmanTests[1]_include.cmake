@@ -1,0 +1,5 @@
+if(EXISTS "D:/HuffmanLab/CMakeProject1/out/build/x64-debug/HuffmanTests[1]_tests.cmake")
+  include("D:/HuffmanLab/CMakeProject1/out/build/x64-debug/HuffmanTests[1]_tests.cmake")
+else()
+  add_test(HuffmanTests_NOT_BUILT HuffmanTests_NOT_BUILT)
+endif()

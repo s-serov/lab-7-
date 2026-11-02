@@ -1,0 +1,52 @@
+{
+  "tests": 8,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HuffmanCodecTest",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "EncodesAndDecodesCorrectly",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 7
+        },
+        {
+          "name": "RejectsEmptyConstructorData",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 21
+        },
+        {
+          "name": "RejectsEmptyEncodingText",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 29
+        },
+        {
+          "name": "ThrowsOnUnknownSymbol",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 38
+        },
+        {
+          "name": "ThrowsOnInvalidBitStringChar",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 54
+        },
+        {
+          "name": "ThrowsOnIncompleteBitSequence",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 71
+        },
+        {
+          "name": "BuildTreePreservesStateOnException",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 84
+        },
+        {
+          "name": "UnsafeBuildTreeViolatesStrongGuarantee",
+          "file": "D:\\HuffmanLab\\CMakeProject1\\tests\\HuffmanTests.cpp",
+          "line": 96
+        }
+      ]
+    }
+  ]
+}
